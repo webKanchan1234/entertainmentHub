@@ -11,10 +11,10 @@ import { useHistory } from 'react-router';
 
 const useStyles = makeStyles({
   root: {
-    width: 500,
+    width: 370,
     position:"fixed",
     bottom:0,
-    backgroundColor:"#2d313a",
+    backgroundColor:"blue",
     zIndex:100,
   },
 });
@@ -43,6 +43,7 @@ export default function SimpleBottomNavigation() {
       }}
       showLabels
       className={classes.root}
+      
     >
       <BottomNavigationAction
       style={{color:"white"}}
