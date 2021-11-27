@@ -1,3 +1,4 @@
+https://webkanchan1234.github.io/entertainmentHub/
 # Entertainment Hub
 # Description
 This is a online watching movies and series platform. There are many functionality is used such as pagination, filtering, categorisation, seperate search bar for movies and serial.
